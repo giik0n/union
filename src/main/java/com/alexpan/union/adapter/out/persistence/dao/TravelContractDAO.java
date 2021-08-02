@@ -12,7 +12,7 @@ import java.util.List;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Travel contracts repository
  */
 @Repository
 public interface TravelContractDAO extends JpaRepository<TravelContractJPAEntity, Long> {

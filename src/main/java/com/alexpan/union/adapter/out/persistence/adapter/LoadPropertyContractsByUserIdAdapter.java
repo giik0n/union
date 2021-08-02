@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Create adapter to load property contracts
  */
 @Component
 @RequiredArgsConstructor

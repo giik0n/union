@@ -12,7 +12,7 @@ import java.util.List;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Property contracts repository
  */
 @Repository
 public interface PropertyContractDAO extends JpaRepository<PropertyContractJPAEntity, Long> {

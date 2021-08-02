@@ -7,8 +7,8 @@ import com.alexpan.union.domain.model.Client;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task: Create port for loading client by id
+ *Task: Create port for save new address
  */
-public interface LoadClientByIdPort {
-    Client load(Long id);
+public interface SaveNewAddressPort {
+    Address save(Address address);
 }

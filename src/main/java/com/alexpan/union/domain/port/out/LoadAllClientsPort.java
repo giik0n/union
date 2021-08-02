@@ -8,10 +8,8 @@ import java.util.List;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Create port for loading all clients
  */
-
-
 public interface LoadAllClientsPort {
 
     List<Client> load();

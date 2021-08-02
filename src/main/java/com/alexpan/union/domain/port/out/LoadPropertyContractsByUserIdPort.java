@@ -9,7 +9,7 @@ import java.util.List;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Create port for loading property contracts by user id
  */
 public interface LoadPropertyContractsByUserIdPort {
     List<PropertyContract> load(Long id);

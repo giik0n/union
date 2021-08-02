@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task: Create adapter to persist new client
+ *Task: Create adapter to save new client
  */
 @Component
 @RequiredArgsConstructor

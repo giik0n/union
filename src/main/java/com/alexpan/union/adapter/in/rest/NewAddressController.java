@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * @version 1.0
  *Task: Create new entrypoint for new address registration
  */
-//@Controller
+@Controller
 @RequiredArgsConstructor
 public class NewAddressController {
 

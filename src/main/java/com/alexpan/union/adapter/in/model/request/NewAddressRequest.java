@@ -11,7 +11,7 @@ import java.time.LocalDate;
  * @author Alexander Panyshchev
  * @since 31.07.2021
  * @version 1.0
- *Task:
+ *Task:Create new address request
  */
 @Getter
 @Setter

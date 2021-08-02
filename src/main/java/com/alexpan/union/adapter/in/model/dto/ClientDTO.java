@@ -9,7 +9,7 @@ import java.time.LocalDate;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Client data transfer object
  */
 @Data
 public class ClientDTO {

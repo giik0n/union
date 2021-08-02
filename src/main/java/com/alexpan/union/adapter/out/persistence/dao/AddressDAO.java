@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Address repository
  */
 @Repository
 public interface AddressDAO extends JpaRepository<AddressJPAEntity, Long> {

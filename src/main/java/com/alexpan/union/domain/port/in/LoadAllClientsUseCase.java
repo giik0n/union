@@ -8,7 +8,7 @@ import java.util.List;
  * @author Alexander Panyshchev
  * @since 31.07.2021
  * @version 1.0
- *Task:
+ *Task: Crete use case for loading all clients
  */
 public interface LoadAllClientsUseCase {
     List<Client> load();

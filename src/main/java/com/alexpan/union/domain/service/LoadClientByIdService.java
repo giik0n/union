@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Create implementation service for loading client by id use case
  */
 @Service
 @RequiredArgsConstructor

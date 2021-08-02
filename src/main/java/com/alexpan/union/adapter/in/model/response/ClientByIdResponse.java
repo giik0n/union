@@ -10,7 +10,7 @@ import lombok.Setter;
  * @author Alexander Panyshchev
  * @since 31.07.2021
  * @version 1.0
- *Task:
+ *Task: Create single client response
  */
 @Setter
 @Getter

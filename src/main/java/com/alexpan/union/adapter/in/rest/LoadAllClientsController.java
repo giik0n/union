@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
  * @author Alexander Panyshchev
  * @since 31.07.2021
  * @version 1.0
- *Task:
+ *Task: Create controller for loading all clients
  */
 @Controller
 @RequiredArgsConstructor

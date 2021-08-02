@@ -12,7 +12,7 @@ import java.util.List;
  * @author Alexander Panyshchev
  * @since 01.08.2021
  * @version 1.0
- *Task:
+ *Task: Create implementation service for loading all clients use case
  */
 @Service
 @RequiredArgsConstructor
